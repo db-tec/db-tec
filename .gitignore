@@ -3,3 +3,4 @@
 .env
 *.pyc
 *__pycache
+gestao_rh/__pycache__/
